@@ -87,3 +87,4 @@ Výška HDP bude mít určitý vliv na mzdy a ceny potravin, ovšem je zde spous
 jako například nezaměstatnost, nabídka a poptávka na trhu práce, vzdělání atd... 
 U potravin to můžou být různá nová nařízení, úroda, přirodní katastrofy, import a export.
 ```
+Odkaz na vizualizaci [ZDE](https://public.tableau.com/views/HDPMzdyCeny/HDPMzdyCenyOtzka_5?:language=en-US&:display_count=n&:origin=viz_share_link)
