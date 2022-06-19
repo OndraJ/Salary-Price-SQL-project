@@ -4,7 +4,7 @@
 ```
 Projekt slouží ke sledování vývoje mezd napříč odvětvími a cen potravin v ČR.
 Přiložený dokument first_table.sql se zabývá otázkami č. 1,2,3 a 4.
-Dokument second_table.sql za zabávý otázkou č. 5.
+Dokument second_table.sql za zabývá otázkou č. 5.
 K otázkám č. 1,3,4,5 jsem vypracoval vizualizace v Tableau Public.
 ```
 ##
